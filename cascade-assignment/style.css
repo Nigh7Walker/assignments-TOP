@@ -1,0 +1,38 @@
+/* css cascade fix */
+/* Couldve added the body tag at the top with the <> and it would set the entire page to */
+/* whatever font I desired */
+/* Looks at the solution. */
+
+/* Code below shows what I could figure out */
+.para {
+    font-size: 32px;
+    font-weight: bold;   
+}
+.small-para {
+    font-size: 20px;
+}
+
+#confirm-button {
+    font-size: 24px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+#cancel-button {
+    font-size: 24px;
+    background-color: white;
+}
+
+/* Solution, Couldve added the div tag div.text and wouldve separeted the text */
+/*  */
+.text {
+    font-size: 28px;
+    font-weight: 300;
+}
+
+/* Solution, again couldve used the div tag div.child */
+.child {
+    font-size: 18px;
+    font-weight: bold;
+}
