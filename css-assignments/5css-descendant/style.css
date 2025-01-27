@@ -1,0 +1,11 @@
+/* css desendant */
+
+/* Took abit to figure out, needed to move the container first of the order */
+.container .text {
+
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    
+}

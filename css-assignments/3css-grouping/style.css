@@ -1,0 +1,18 @@
+/* style.css */
+
+/* You can group them like this or use a comma  */
+/* You can use any symbol for variables */
+#button1
+#button2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+/* The code below can still be used to make the individual button look different */
+#button1 {
+    color: white;
+    background-color: black;
+}
+
+#button2 {
+    background-color: yellow;
+}
